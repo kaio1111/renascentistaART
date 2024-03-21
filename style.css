@@ -1,0 +1,22 @@
+
+.logotipo{
+    width: 120px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+
+.cabecalho{
+    background-color: #0e0d0d;
+    color: white;
+}
+
+
+.cabecalho-lista{
+    display: flex;
+    position: relative;
+    left: 300px;
+
+
+}
