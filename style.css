@@ -12,6 +12,9 @@
     color: white;
 }
 
+.site{
+    background-color: black;
+}
 
 .cabecalho-lista{
     display: flex;
@@ -28,7 +31,3 @@
 
 }
 
-
-.site{
-    background-color: rgb(09, 0, 0);
-}
