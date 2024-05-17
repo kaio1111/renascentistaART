@@ -30,7 +30,10 @@ body {
     background-color: #000000; /* Cor de fundo branca */
 }
 
-<img src="" alt="Descrição da imagem">
-
+.secaol{
+    display: grid;
+    grid-template-columns: 40% 40%;
+    margin-left: 10%;
+}
 
 
